@@ -26,7 +26,7 @@ function flower(N, turn,p) {
    x = radius * cos(2*PI*k + p)
    y = radius * sin(2*PI*k + p)
    
-   h = map(sqrt(x*x + y*y),0,320,5,100);
+   h = map(i,0,320,5,100);
    fill(h,200,100,1);
    
    circle(windowWidth/2+x,250+y,1.9*sqrt(k))
