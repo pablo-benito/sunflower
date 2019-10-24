@@ -1,2 +1,2 @@
-# sunflower
-The beaty of the golden ratio
+# The Sunflower
+The beaty of the golden ratio on a sunflower
