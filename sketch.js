@@ -36,7 +36,7 @@ function flower(N, turn,p) {
 function draw() {
   background(0);
   
-  turn = map(frameCount,0,150,1.6,golden, true)
+  turn = map(frameCount,0,200,1.6,golden, true)
   if (turn >= golden) {
     p+=0.001
   }
